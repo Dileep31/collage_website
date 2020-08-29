@@ -1,0 +1,148 @@
+body{
+	background-color:  #ccffff;
+	font-size: 15px;
+}
+.container{
+	width: 80%;
+	margin: auto;
+	overflow:hidden;
+}
+header{
+	background-color: #808080;
+	color: black;
+}
+header h1{
+	font-size: 40px;
+	float: left;
+	text-align: center;
+	padding-top: 20px;
+}
+header img{
+	float: right;
+}
+.image img{
+	width: 100%;
+	height:300px;
+}
+.list li{
+	float: left;
+	width: 15%;
+	font-size: 150%;
+	padding-top: 10px;
+	}
+.list{
+	background-color:#52cc85;
+	height: 60px;
+	border-bottom: black 3px solid;
+}
+.index a:hover{
+	color: black;
+	font-size: 30px;
+}
+.index a{
+	color: white;
+	margin-top: 10px;
+}
+.socialmedia li{
+	float: left;
+	width: 20%;
+	font-size: 150%;
+	padding-bottom: 10px;
+}
+.socialmedia{
+	background-color:  #005cff;
+	border-bottom: red 3px solid;
+}
+.socialmedia a{
+	color: white;
+	font-size: 25px;
+}
+.socialmedia a:hover{
+	color: red;
+	font-size: 30px;
+}
+footer{
+	background-color:  #00cc66;
+	text-align: center;
+	padding: 5px;
+	color: white;
+	font-size: 20px;
+}
+.vision{
+	float: left;
+	width: 40%;
+}
+.mission{
+	float: right;
+	width: 40%;
+}
+.both{
+	background-color:#99ff33;
+	font-size: 110%;
+}
+.abtfounder p{
+	font-size: 120%;
+}
+.abtfounder .name{
+	color: #000099;
+	font-size: 140%
+}
+.signup label{
+	font-size: 150%;
+}
+.signup input[type="text"]{
+	padding: 5px;
+	height: 25px;
+	width: 200px;
+}
+.signup input[type="E-mail"]{
+	padding: 5px;
+	height: 25px;
+	width: 200px;
+}
+.signup input[type="number"]{
+	padding: 5px;
+	height: 25px;
+	width: 200px;
+}
+.signup input[type="password"]{
+	padding: 5px;
+	height: 25px;
+	width: 200px;
+}
+.signup input[type="submit"]{
+	padding: 3px;
+	height: 30px;
+	width: 100px;
+	background-color:  #ffff99;
+}
+.regis{
+	padding-bottom: 10px;
+}
+.login input[type="text"]{
+	padding: 5px;
+	height: 25px;
+	width: 200px;
+}
+.login input[type="password"]{
+	padding: 5px;
+	height: 25px;
+	width: 200px;
+}
+.login label{
+	font-size: 150%
+}
+.login input[type="submit"]{
+	padding: 3px;
+	height: 30px;
+	width: 100px;
+	background-color:  #ffff99;
+}
+.login input[type="button"]{
+	padding: 3px;
+	height: 30px;
+	width: 150px;
+	background-color:  #ffff99;
+
+
+
